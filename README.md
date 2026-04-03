@@ -1,7 +1,7 @@
 # jpa01-Deb1tto
 
 
-Deployed at: http://jpa01-deb1tto.dokku-12.cs.ucsb.edu/
+Deployed at: https://jpa01-deb1tto.dokku-12.cs.ucsb.edu/
 
 
 # About this repo
